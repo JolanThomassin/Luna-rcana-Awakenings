@@ -1,35 +1,26 @@
 # Luna'rcana Awakenings
-Version du jeu : **Alpha**  
-[Lien vers le site](https://jolanthomassin.fr/pageProjets/Astralcha.html)
+Game Version: **1.0.0**  
+[Link to the project page](https://jolanthomassin.fr/pageProjets/Lunarcana.html)  
+[Link to the review form](https://forms.gle/d5ySafCocSWE4Sd97).  
 
-## Description du jeu
-### ✨ Vivez la magie ✨
-L'objectif principal du jeu consiste à avancer dans une tour peuplée de boss de plus en plus redoutables. Pour accomplir cette tâche, vous aurez à votre disposition une équipe de personnages que vous pourrez obtenir grâce à diverses invocations. Chacun de ces personnages se classe dans huit des différentes catégories disponible. Au cours des affrontements, si deux personnages partagent la même catégorie et se trouvent côte à côte, ils bénéficieront de statistiques boostées.
+## Game Description
+### ✨ Experience the Magic ✨
+The main objective of the game is to progress through a tower populated by increasingly formidable bosses. To accomplish this task, you will have a team of characters at your disposal, which you can obtain through various summons. Each of these characters falls into different available categories. During battles, if two characters share the same category and are placed side by side, they will benefit from boosted statistics.
 
-### ⛩️ Ascension de la tour ⛩️
-L'ascension de la tour est une aventure intense, avec des étages de plus en plus difficiles et des boss de plus en plus redoutables. Chaque étage représente un défi croissant pour l'équipe de héros. Les compétences actives et passives des personnages sont essentielles lors des combats, permettant d'infliger des dégâts massifs ou d'apporter des avantages tactiques.
+### ⛩️ Tower Ascent ⛩️
+Ascending the tower is an intense adventure, with floors becoming progressively more difficult and bosses increasingly formidable. Each floor represents a growing challenge for the team of heroes. The active and passive skills of the characters are crucial during battles, enabling them to inflict massive damage or provide tactical advantages.
 
-La coordination est cruciale pour maximiser l'efficacité des compétences de chaque personnage. De plus, le type de chaque personnage influence les dégâts qu'ils infligent et encaissent. Utiliser des personnages ayant un avantage de type sur le boss actuel augmente les dégâts tout en réduisant les risques.
+Coordination is crucial to maximize the effectiveness of each character's skills. Furthermore, each character's type influences the damage they deal and withstand. Using characters with a type advantage over the current boss increases damage while reducing risks.
 
-À mesure que l'équipe progresse, les boss deviennent de plus en plus redoutables, nécessitant une planification minutieuse et une compréhension approfondie des compétences des personnages. Chaque victoire est une victoire durement gagnée, mais l'espoir de parvenir au sommet de la tour continue de motiver les héros à surmonter tous les obstacles.
+As the team progresses, bosses become more and more formidable, requiring meticulous planning and a deep understanding of the characters' skills. Each victory is hard-earned, but the hope of reaching the top of the tower continues to motivate heroes to overcome all obstacles.
 
-### 🤝 Créez votre propre équipe 🤝
-Créez la formation ultime en rassemblant des personnages emblématiques de toute la galaxie. Partez à la recherche de héros pour relever le défi des multiples étages de la tour. Dans cette quête épique, vous devrez exploiter les compétences uniques de chaque personnage pour triompher des boss redoutables et progresser toujours plus haut dans la tour, prêts à affronter des défis toujours plus grands. L'avenir de l'univers repose entre vos mains, alors formez la meilleure équipe et écrivez votre propre légende !
+### 🤝 Create Your Own Team 🤝
+Create the ultimate formation by gathering iconic characters, all led by their category leader. Embark on a quest to find your favorite heroes to face the challenge of multiple tower floors. In this epic quest, you'll need to harness the unique skills of each character to triumph over formidable bosses and continuously advance higher in the tower, ready to face ever-greater challenges. The fate of the universe rests in your hands, so assemble the best team and write your own legend!
 
-### 🥷 Améliorer vos personnages 🥷
-L'amélioration des personnages est au cœur du jeu. Chaque personnage peut monter de niveau en participant aux combats, surtout contre les boss, qui fournissent des potions d'expérience précieuses. Cependant, une autre dimension de puissance est l'éveil, accessible à certains personnages. En s'éveillant, ils deviennent plus rares et plus puissants. Pour déclencher cet éveil, les joueurs doivent accomplir des quêtes spéciales en battant des boss spécial de la tour. Faire évoluer les personnages est essentiel pour surmonter les défis à venir. C'est une quête stratégique, où chaque choix compte pour atteindre les sommets de la tour.
+### 🥷 Upgrade Your Characters 🥷
+Character enhancement is at the core of the game. Each character can level up by participating in battles, especially against bosses, who provide valuable experience potions. However, another dimension of power is awakening, accessible to certain characters. By awakening, they become rarer and more powerful. To trigger this awakening, players must complete special quests by defeating special tower bosses. Evolving characters is essential to overcome upcoming challenges. It's a strategic quest where every choice matters to reach the tower's heights.
 
-### 🚧 Travaux en cours 🚧
-N'oubliez pas que le jeu est encore en développement et que ce que vous voyez aujourd'hui n'est qu'un aperçu de la magie que nous pouvons créer. Je travaille pour affiner le gameplay, améliorer les graphismes et garantir une expérience de jeu fluide une fois qu'il sera enfin entre vos mains.
+### 🚧 Work in Progress 🚧
+Remember that the game is still in development, and what you see today is just a glimpse of the magic we can create. I am working to refine gameplay, improve graphics, and ensure a smooth gaming experience once it's finally in your hands.
 
-Merci de nous rejoindre dans cette aventure passionnante. D’ici là, que la magie soit avec vous ! ✨
-
-#### TODO avant la sortie de l'ALPHA :
-- Créer le build est un nouveau Git pour le projet
-
-#### TODO :
-- Ajouter l'inventaire
-- Trouver une utiliter pour les doublons de personnages
-- Ajouter une variable UI_Nom aux items du jeu
-- Ajout raccourci pour les combats
-- Après un combat pouvoir le relancer
+Thank you for joining us on this exciting adventure. Until then, may the magic be with you! ✨
