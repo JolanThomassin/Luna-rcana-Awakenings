@@ -1,7 +1,10 @@
 # Luna'rcana Awakenings
+
+![undefined_image (18) - Copie](https://github.com/JolanThomassin/Lunarcana-Awakenings/assets/98430140/8ac65fbf-3f9d-49aa-8a39-2b6fdce784dc)
+
 Game Version: **1.0.0**  
 [Link to the project page](https://jolanthomassin.fr/pageProjets/Lunarcana.html)  
-[Link to the review form](https://forms.gle/d5ySafCocSWE4Sd97).  
+[Link to the review form](https://forms.gle/d5ySafCocSWE4Sd97). 
 
 ## Game Description
 ### ✨ Experience the Magic ✨
