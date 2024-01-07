@@ -2,7 +2,7 @@
 
 ![undefined_image (18) - Copie](https://github.com/JolanThomassin/Lunarcana-Awakenings/assets/98430140/8ac65fbf-3f9d-49aa-8a39-2b6fdce784dc)
 
-Game Version: **1.0.0**  
+Game Version: **1.0.1**  
 [Link to the project page](https://jolanthomassin.fr/pageProjets/Lunarcana.html)  
 [Link to the character page](https://jolanthomassin.github.io/Lunarcana_website/)  
 [Link to the review form](https://forms.gle/d5ySafCocSWE4Sd97)  
