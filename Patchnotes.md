@@ -1,5 +1,11 @@
 # Luna'rcana Awakenings Patch Note
 
+## Version 1.0.1 Description
+
+### ✨ New Website ! ✨
+
+You now have a [website](https://jolanthomassin.github.io/Lunarcana_website/) with all character information, images, and the story that you can check out."
+
 ## Version 1.0.0 Description
 
 ### ✨ Beginning of the Game ✨

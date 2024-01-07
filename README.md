@@ -1,7 +1,8 @@
 # Luna'rcana Awakenings
 Game Version: **1.0.0**  
 [Link to the project page](https://jolanthomassin.fr/pageProjets/Lunarcana.html)  
-[Link to the review form](https://forms.gle/d5ySafCocSWE4Sd97).  
+[Link to the character page](https://jolanthomassin.github.io/Lunarcana_website/)
+[Link to the review form](https://forms.gle/d5ySafCocSWE4Sd97)  
 
 ## Game Description
 ### ✨ Experience the Magic ✨
