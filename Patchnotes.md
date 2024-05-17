@@ -1,5 +1,11 @@
 # Luna'rcana Awakenings Patch Note
 
+## Version 2.0.0 Description
+
+### ✨ Complete Overhaul of the Database System✨
+
+In the previous versions (1.0.0 and 1.0.1), the game encountered issues with its data handling due to its utilization of SQLite, resulting in difficulties launching the game accurately. To address this, all scripts have been changed, and the data system has been revamped. Presently, the game operates smoothly utilizing JSON and the Unity system, potentially expanding its compatibility with various machines. While some troubles may persist, granting administrative privileges should typically resolve them during game launch.
+
 ## Version 1.0.1 Description
 
 ### ✨ New Website ! ✨
@@ -19,6 +25,7 @@ This is the first version of the game. Don't hesitate to leave a [review](https:
 ### 🤝 New Characters 🤝
 
 #### New banner - Origin
+
 - Oan
 - Tow
 - Fhree
@@ -28,6 +35,7 @@ This is the first version of the game. Don't hesitate to leave a [review](https:
 - Seeve
 
 #### New banner - The InkShadow
+
 - Cherry
 - Stella
 - Erin
